@@ -5,5 +5,6 @@ public class Dado {
  public static void main(String[] args) {
      CrearDado dadoPrincipal = new CrearDado();  
 System.out.println("lado: "+ dadoPrincipal.lanzarDado());
+System.out.println("prueba");
  }
 }
