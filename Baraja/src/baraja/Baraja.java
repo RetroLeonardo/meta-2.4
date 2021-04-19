@@ -14,5 +14,6 @@ public class Baraja {
         numero=aleatorio.nextInt(53);
         System.out.println(carta.mostrarCarta(numero));
         carta.sacarCarta(numero);
+        System.out.println("Tarea exitosa");
     }
 }
